@@ -1,0 +1,6 @@
+# We fill the file then we add it to our next commit
+git add file3.txt
+# We make a commit
+git commit -m "adding file3 to the new branch"
+# We push our changes
+git push
